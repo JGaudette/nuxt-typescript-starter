@@ -1,0 +1,4 @@
+*.un~
+dist/
+node_modules
+.nuxt
